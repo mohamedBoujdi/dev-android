@@ -18,8 +18,10 @@
     <string name="puiss">^</string>
     <string name="plus">+</string>
     <string name="moins">-</string>
-    <string name="div">/</string>
+    <string name="div">÷</string>
     <string name="egal">=</string>
     <string name="ac">AC</string>
     <string name="delete">delete</string>
+    <string name="saisir_votre_op_ration">saisir votre opération</string>
+    <string name="sign">-/+</string>
 </resources>
